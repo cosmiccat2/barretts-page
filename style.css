@@ -1,0 +1,102 @@
+*{
+    color: aliceblue;
+    
+}
+body{
+    background-color: #b2d3f7;
+}
+.top{
+    display: flex;
+    align-items:  center;
+    justify-content: space-evenly;
+    background: #eb4e5a;
+    height: 80px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    z-index: 2;
+    position: relative;
+    gap: 10px;
+    
+}
+.topitem{
+    gap: 20px;
+}
+.head{
+    display: flex;
+    background: #0e0e0e;
+    justify-content: space-evenly;
+    height: fit-content;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding-inline: 10%;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    margin-top: -80px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    
+
+
+}
+.headitem {
+    width: 300px;
+
+}
+#barrett{
+    width: 300px;
+    border-radius: 25px;
+    
+}
+h1{
+    color: #d2d47b;
+}
+.car{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    height: fit-content;
+    flex-wrap: wrap;
+    
+
+}
+.caritem{
+    
+
+}
+#mclaren{
+    border-radius: 25px;
+    height:400px;
+}
+#mclarentxt{
+    background-color: #0e0e0e;
+    padding: 20px;
+    border-radius: 25px;
+    height: 360px;
+    width: 600px;
+    padding-left: 40px;
+    
+
+
+}
+.face{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    height: fit-content;
+    flex-wrap: wrap;
+    background-color: #d2d47b;
+    margin-inline: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+}
+.faceitem{
+
+}
+#face {
+    border-radius: 25px;
+    height:400px;
+    margin-inline: 97px;
+}
