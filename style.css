@@ -67,6 +67,7 @@ h1{
 #mclaren{
     border-radius: 25px;
     height:400px;
+    max-width: 99%;
 }
 #mclarentxt{
     background-color: #0e0e0e;
@@ -99,4 +100,5 @@ h1{
     border-radius: 25px;
     height:400px;
     margin-inline: 97px;
+    max-width: 99%;
 }
